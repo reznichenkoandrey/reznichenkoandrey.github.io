@@ -1,0 +1,12 @@
+{
+  "id": "lampa.ua.balancer",
+  "name": "Lampa UA Balancer",
+  "version": "1.0.0",
+  "author": "Andrey Reznichenko",
+  "description": "Плагін для перегляду фільмів і серіалів з UAKino та UASerials.",
+  "icon": "resources/images/icon.png",
+  "background": "resources/images/background.jpg",
+  "type": "video",
+  "entry": "index.js",
+  "status": "active"
+}

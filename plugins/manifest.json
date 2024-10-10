@@ -1,0 +1,8 @@
+{
+  "id": "lampa.ua.balancer",
+  "name": "Lampa UA Balancer",
+  "version": "1.0.0",
+  "settings": {
+    "quality": ["480p", "720p", "1080p"]
+  }
+}
